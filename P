@@ -7,4 +7,9 @@
         <title>Mi Perfil - UTP</title>
         <link rel="stylesheet" href="estilos.css">
     </head>
+    <body>
+        <h1>¡Hola! Soy [Bryan]</h1>
+        <img src="C:\bryan\2022-01-11.png" alt="Mi foto">
+        <p class="descripcion">Estudiante de la UTP, apasionado por la tecnologia.</p>
+    </body>
 </html>
