@@ -13,5 +13,8 @@
         <p class="descripcion">Estudiante de la UTP, apasionado por la tecnologia.</p>
 
         <h2>Mis Hobbies:</h2>
+        <ul>
+            <li>Programar</li>
+        </ul>
     </body>
 </html>
