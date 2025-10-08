@@ -15,6 +15,7 @@
         <h2>Mis Hobbies:</h2>
         <ul>
             <li>Programar</li>
+            <li>Jugar videojuegos</li>
         </ul>
     </body>
 </html>
