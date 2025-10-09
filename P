@@ -16,6 +16,7 @@
         <ul>
             <li>Programar</li>
             <li>Jugar videojuegos</li>
+            <li>Ver Series</li>
         </ul>
     </body>
 </html>
