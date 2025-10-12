@@ -21,3 +21,8 @@
         <a href="https://github.com/bryanlauya-oss">Mi Github</a>
     </body>
 </html>
+
+
+body {
+  font-family: Arial;
+}
