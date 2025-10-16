@@ -29,3 +29,6 @@ body {
   text-align: center;
   padding: 20px;
 }
+h1 {
+  color: #003366;
+}
