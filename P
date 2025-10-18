@@ -34,4 +34,5 @@ h1 {
 }
 .descripcion {
   background-color: white;
+  padding: 15px;
 }
