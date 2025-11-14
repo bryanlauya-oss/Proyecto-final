@@ -9,7 +9,7 @@
 <body>
     <header>
         <img src="imagenes/logo.png" alt="logo">
-
+        <nav>
     </header>
 </body>
 </html>
