@@ -11,6 +11,7 @@
         <img src="imagenes/logo.png" alt="logo">
         <nav>
             <a href="Practica.html">Inicio</a>
+            <a href="servicios.html">servicios</a>
     </header>
 </body>
 </html>
