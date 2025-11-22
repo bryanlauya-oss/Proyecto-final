@@ -19,6 +19,7 @@
     <main>
         <h1>Bienvenidos</h1>
         <p>Somos una empresa 100% confiable</p>
+        <img src="imagenes/imagen.jpg" alt="principal" width="400" height="300">
     </main>
 </body>
 </html>
